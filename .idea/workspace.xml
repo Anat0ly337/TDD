@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="229b2350-b002-46d7-99d4-3375d88d3adb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MissingValueException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/TemplateGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TemplateGeneratorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/FileOutputExtension.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TemplateGeneratorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TemplateGeneratorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TemplateGeneratorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TemplateGeneratorTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +51,9 @@
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="org.example" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
     </key>
   </component>
   <component name="RunManager" selected="JUnit.TemplateGeneratorTest">
@@ -141,7 +142,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/TemplateGeneratorTest.java</url>
-          <line>19</line>
+          <line>21</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
